@@ -3,4 +3,4 @@ function fibNumber(n){
   return fibNumber(n-1) + fibNumber(n-2)  
 }
 
-console.log(fibNumber(50))
+console.log(fibNumber(10))
